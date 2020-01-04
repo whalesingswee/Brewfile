@@ -87,11 +87,3 @@ cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
 cask "zeplin"
-
-# Quicklook Plugins
-cask "qlcolorcode"
-cask "qlmarkdown"
-cask "qlstephen"
-cask "qlvideo"
-cask "quicklook-csv"
-cask "quicklook-json"
